@@ -47,6 +47,8 @@ pip install -r requirements.txt
 4. **Make sure ffmpeg is installed and added to your PATH**
 You can download it from: https://ffmpeg.org/download.html
 
+---
+
 ## ▶️ Run the App
 To start the Streamlit application, run:
 uv run streamlit run app.py
