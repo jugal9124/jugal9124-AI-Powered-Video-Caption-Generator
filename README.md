@@ -28,7 +28,7 @@ An intelligent tool that automatically generates captions/subtitles for videos u
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/ai-video-caption-generator.git
+git clone https://github.com/jugal9124/jugal9124-AI-Powered-Video-Caption-Generator.git
 cd ai-video-caption-generator
 ```
 
