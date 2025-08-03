@@ -33,19 +33,19 @@ cd ai-video-caption-generator
 ```
 
 2. **Create a virtual environment (optional but recommended)**
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
+No need to make virtual Environment Because uv make env file automatically
 
 
 3. **Install the dependencies**
 ```bash
-pip install -r requirements.txt
+uv add -r requirements.txt
 ```
 
 4. **Make sure ffmpeg is installed and added to your PATH**
-You can download it from: https://ffmpeg.org/download.html
+You can download it from:
+```bash
+https://ffmpeg.org/download.html
+  ```
 
 ---
 
