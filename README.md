@@ -33,7 +33,7 @@ cd ai-video-caption-generator
 ```
 
 2. **Create a virtual environment (optional but recommended)**
-No need to make virtual Environment Because uv make env file automatically
+- No need to make virtual Environment Because uv make env file automatically
 
 
 3. **Install the dependencies**
@@ -45,13 +45,15 @@ uv add -r requirements.txt
 You can download it from:
 ```bash
 https://ffmpeg.org/download.html
-  ```
+```
 
 ---
 
 ## ▶️ Run the App
 To start the Streamlit application, run:
+```bash
 uv run streamlit run app.py
+```
 
 ## 📌 Notes
 - Make sure your system supports ffmpeg properly
