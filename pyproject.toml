@@ -1,0 +1,16 @@
+[project]
+name = "ai-powered-video-caption-generator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ffmpeg>=1.4",
+    "moviepy>=2.2.1",
+    "openai-whisper",
+    "srt>=3.5.3",
+    "streamlit>=1.47.1",
+]
+
+[tool.uv.sources]
+openai-whisper = { git = "https://github.com/openai/whisper.git" }

@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:04,000
+I'm going to show you how we can mod our DSi XL and play all of our favorite games off
+
+2
+00:00:04,000 --> 00:00:05,000
+of the SD card.
+
+3
+00:00:05,000 --> 00:00:07,200
+The first thing we're going to need to do is open up the camera app.
+
+4
+00:00:07,200 --> 00:00:09,600
+We need to go in the album and see if this John has the Facebook.
+
+5
+00:00:09,600 --> 00:00:10,600
+I am human.
+
+6
+00:00:10,600 --> 00:00:14,160
+Mine does, so the next thing we need to do is power down our system and remove the SD card.
+
+7
+00:00:14,160 --> 00:00:18,200
+Over on our computer, we need to download the DSi, AIO, zip file and extract it.
+
+8
+00:00:18,200 --> 00:00:22,240
+Insert your SD card into your computer, select everything except for the memory pit folder
+
+9
+00:00:22,240 --> 00:00:24,320
+and copy it to the root of your SD card.
+
+10
+00:00:24,320 --> 00:00:27,960
+Now we need to go all the way deep in the private folder on your SD card till we get to the
+
+11
+00:00:27,960 --> 00:00:29,200
+pit.bin file.
+
+12
+00:00:29,200 --> 00:00:32,000
+Rename this file and then we need to go back into the memory pit folder.
+
+13
+00:00:32,000 --> 00:00:36,200
+Now drag the new pit.bin file into the private folder.
+
+14
+00:00:36,200 --> 00:00:39,200
+Put your SD card back in your DSi and reopen the camera app.
+
+15
+00:00:39,200 --> 00:00:41,480
+With SD card selected, tap the album icon.
+
+16
+00:00:41,480 --> 00:00:43,560
+This is going to boot you into the Twilight menu setup.
+
+17
+00:00:43,560 --> 00:00:45,320
+Just choose your language and your region.
+
+18
+00:00:45,320 --> 00:00:48,000
+Now that we have Twilight menu installed, we need to add our games.
+
+19
+00:00:48,000 --> 00:00:51,360
+Back on our computer, we need to create a ROMs folder to drop all of our games in.
+
+20
+00:00:51,360 --> 00:00:55,080
+And just like that, all of our favorite games are here ready to play from the launcher.
+
+21
+00:00:55,080 --> 00:00:58,920
+In my opinion, there's no better way to play DS games than on a DSi XL.
+
