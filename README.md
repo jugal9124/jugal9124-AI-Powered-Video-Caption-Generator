@@ -30,14 +30,19 @@ An intelligent tool that automatically generates captions/subtitles for videos u
 ```bash
 git clone https://github.com/your-username/ai-video-caption-generator.git
 cd ai-video-caption-generator
+```
 
 2. **Create a virtual environment (optional but recommended)**
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
 
 3. **Install the dependencies**
+```bash
 pip install -r requirements.txt
+```
 
 4. **Make sure ffmpeg is installed and added to your PATH**
 You can download it from: https://ffmpeg.org/download.html
@@ -47,15 +52,15 @@ To start the Streamlit application, run:
 uv run streamlit run app.py
 
 ## 📌 Notes
-Make sure your system supports ffmpeg properly
-For large files, processing time may vary depending on system resources
-Whisper supports multilingual transcription!
+- Make sure your system supports ffmpeg properly
+- For large files, processing time may vary depending on system resources
+- Whisper supports multilingual transcription!
 
 ## 🙌 Acknowledgements
-OpenAI for the Whisper model
-Streamlit for the intuitive UI framework
-Python community for the awesome libraries
+- OpenAI -> for the Whisper model
+- Streamlit -> for the intuitive UI framework
+- Python -> community for the awesome libraries
 
 ## 🌐 Connect with Me
-LinkedIn: https://www.linkedin.com/in/jugal-kishore-61b48b246/
-Portfolio: https://jugal-portfolio-ten.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/jugal-kishore-61b48b246/
+- Portfolio: https://jugal-portfolio-ten.vercel.app/
